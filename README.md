@@ -23,3 +23,4 @@ Cada alimento como: *cenoura*,*batata*,*trigo*,*milho* e *alface* vale 1 ponto
 
 ## Objetivo do jogo
  Conseguir a maior pontuação possível coletando os itens necessários
+ferfsf
